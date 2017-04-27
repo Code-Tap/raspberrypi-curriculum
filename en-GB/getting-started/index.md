@@ -180,9 +180,12 @@ Step 4: Browsing the Web (Optional)
 
 ## Challenge: Explore the Pi { .challenge} 
 
-Take some time to explore the Pi. What can you find?
+Take some time to explore the Pi. 
 
-Can you find a version of Scratch? A game to play? A version of Minecraft that you can program (you'll find out more about that later.)
+Can you find:
++ A version of Scratch
++ A Python game to play 
++ A version of Minecraft that you can program (you'll find out more about that later.)
 
 If you are connected to the internet then you can also try browsing the web. Can you find out how the Raspberry Pi got its name?
 
