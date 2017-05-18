@@ -83,9 +83,9 @@ Nothing will display yet.
 
 + Optionally, connect headphones or speakers to the Audio Jack. 
 
-+ Optionally, to connect to the internet, connect an ethernet cable from an ethernet socket to the ethernet port on the Raspberry Pi. 
++ Optionally, connect an ethernet cable from an ethernet socket to the ethernet port on the Raspberry Pi. (You don't need to do this if you'll be using Wifi or not connecting to the internet.)
 
-+ Notice that the micro USB power port is has a longer flat side on top. 
++ Notice that the micro USB power port has a longer flat side on top. 
 
 Plug in the power supply and connect it to the micro USB power input. 
 
@@ -168,7 +168,7 @@ Step 4: Browsing the Web (Optional)
 
 + If you're not using an ethernet cable then you'll need to connect to a wireless network. 
 
-+ Click the Wifi icon on the top-right of the screen and ask your volunteer for Wifi access details. 
++ Click the Wifi icon on the top-right of the screen and ask your Club Leader for Wifi access details. 
 
 ![screenshot](images/pi-wifi.png)
 
