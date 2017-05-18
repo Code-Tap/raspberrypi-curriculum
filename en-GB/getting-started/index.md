@@ -42,7 +42,7 @@ Look at your Raspberry Pi. Can you find all the things labelled on the diagram.
 
 + Audio Jack - this is where you connect headphones or speakers.
 
-+ HDMI Port - this is where you connect the monitor (or projector) that you are using to display the output from the Pi. 
++ HDMI Port - this is where you connect the monitor (or projector) that you are using to display the output from the Pi. If your monitor has speakers you can also get sound. 
 
 + Micro USB Power connector - this is where you connect a power supply. You should always do this last. 
 
@@ -83,7 +83,7 @@ Nothing will display yet.
 
 + Optionally, connect headphones or speakers to the Audio Jack. 
 
-+ Optionally, connect an ethernet cable from an ethernet socket to the ethernet port on the Raspberry Pi. 
++ Optionally, to connect to the internet, connect an ethernet cable from an ethernet socket to the ethernet port on the Raspberry Pi. 
 
 + Notice that the micro USB power port is has a longer flat side on top. 
 
@@ -93,7 +93,7 @@ Plug in the power supply and connect it to the micro USB power input.
 
 You should see a red light on the Raspberry Pi and raspberries on the monitor. 
 
-The Pi will boot up into a graphical environment. 
+The Pi will boot up into a graphical desktop. 
 
 ![screenshot](images/pi-desktop.png) 
 
@@ -128,13 +128,11 @@ Now it's time to take a tour of the Raspberry Pi.
 
 + When the Pi reloads your file should still be there. 
 
-+ Now click on the Command Prompt at the top of the screen:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and OS X are other operating systems.) You can type commands to do things. Click on the Command Prompt at the top of the screen:
 
 ![screenshot](images/pi-command-prompt.png)  
 
-+ The Raspberry Pi runs an operating system called Linux. You can type commands to do things. 
-
-Type: 
++ Now type: 
 
 ```
 ls
@@ -170,7 +168,7 @@ Step 4: Browsing the Web (Optional)
 
 + If you're not using an ethernet cable then you'll need to connect to a wireless network. 
 
-+ Click the Wifi icon on the top-right of the scree and ask your volunteer for Wifi access details. 
++ Click the Wifi icon on the top-right of the screen and ask your volunteer for Wifi access details. 
 
 ![screenshot](images/pi-wifi.png)
 
