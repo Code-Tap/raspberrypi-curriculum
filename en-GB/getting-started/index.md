@@ -32,7 +32,7 @@ Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer i
 
 Look at your Raspberry Pi. Can you find all the things labelled on the diagram. 
 
-![screenshot](images/pi-labelled.png)
+![screenshot](images/pi-labelled-names.png)
     
 + USB ports - these are used to connect a USB mouse and keyboard and other peripherals such as a USB storage drive. 
 
