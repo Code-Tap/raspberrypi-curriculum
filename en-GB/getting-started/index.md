@@ -57,7 +57,7 @@ Take turns explaining parts of the Raspberry Pi with a friend.
 
 Now you're going to connect up your Raspberry Pi and get it running. 
 
-+ Check that your Raspberry Pi has an SD card in the slot underneath the Pi, if not, ask your volunteer for help. 
++ Check that your Raspberry Pi has an SD card in the slot underneath the Pi, if not, ask your Club Leader for help. 
 
 ![screenshot](images/pi-sd.png)
 
@@ -185,7 +185,8 @@ Can you find:
 + A Python game to play 
 + A version of Minecraft that you can program (you'll find out more about that later.)
 
-If you are connected to the internet then you can also try browsing the web. Can you find out how the Raspberry Pi got its name?
+If you are connected to the internet then you can also try browsing the web. 
++ Can you find out how the Raspberry Pi got its name?
 
 
 
