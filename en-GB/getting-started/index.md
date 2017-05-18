@@ -34,19 +34,19 @@ Look at your Raspberry Pi. Can you find all the things labelled on the diagram.
 
 ![screenshot](images/pi-labelled-names.png)
     
-+ USB ports - these are used to connect a USB mouse and keyboard and other peripherals such as a USB storage drive. 
++ __USB ports__ - these are used to connect a USB mouse and keyboard and other peripherals such as a USB storage drive. 
 
-+ SD Card slot - the SD card slots in underneath the Raspberry Pi, this is where the operating system and your files are stored. 
++ __SD Card slot__ - the SD card slots in underneath the Raspberry Pi, this is where the operating system and your files are stored. 
     
-+ Ethernet port - this is used to connect the Raspberry Pi to the network (it can also connect to a Wifi network)
++ __Ethernet port__ - this is used to connect the Raspberry Pi to the network (it can also connect to a Wifi network)
 
-+ Audio Jack - this is where you connect headphones or speakers.
++ __Audio Jack__ - this is where you connect headphones or speakers.
 
-+ HDMI Port - this is where you connect the monitor (or projector) that you are using to display the output from the Pi. If your monitor has speakers you can also get sound. 
++ __HDMI Port__ - this is where you connect the monitor (or projector) that you are using to display the output from the Pi. If your monitor has speakers you can also get sound. 
 
-+ Micro USB Power connector - this is where you connect a power supply. You should always do this last. 
++ __Micro USB Power connector__ - this is where you connect a power supply. You should always do this last. 
 
-+ GPIO Ports - these allow you to connect electronics components such as LEDs and buttons to the Pi.  
++ __GPIO Ports__ - these allow you to connect electronics components such as LEDs and buttons to the Pi.  
 
 
 ## Challenge: Explain the Pi to a Friend { .challenge}
