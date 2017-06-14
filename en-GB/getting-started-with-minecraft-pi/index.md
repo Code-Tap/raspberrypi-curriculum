@@ -1,6 +1,7 @@
 ---
 title: Getting Started with Minecraft Pi
 layout: project
+description: Set up a Raspberry Pi for the first time. 
 notes: "Getting Started with Minecraft Pi - notes.md"
 pdf-options: no-pdf
 ---
