@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Scratch Olympic Gamer - Volunteer Notes
+title: Scratch Olympic Gamer - Volunteer Notes
 ---
 
 #Introduction:
@@ -7,7 +7,7 @@ title: Raspberry Pi Scratch Olympic Gamer - Volunteer Notes
 In this resource you will use Scratch to make a hurdling game, which requires the player to rapidly hit the keyboard to make the hurdler run, and use expert timing to make them jump at the right time.
 
 #Resources
-This project can be completed with Scratch 1.4 or [Scratch 2.0 on the Raspberry Pi](https://www.raspberrypi.org/learning/using-scratch2/). 
+This project can be completed with Scratch 1.4 or [Scratch 2.0 on the Raspberry Pi](https://www.raspberrypi.org/learning/using-scratch2/).
 
 #Learning Objectives
 By creating a Scratch Olympics Hurdler game, you will learn:
@@ -20,5 +20,3 @@ By creating a Scratch Olympics Hurdler game, you will learn:
 This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
 + [Combine programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder)
-
-

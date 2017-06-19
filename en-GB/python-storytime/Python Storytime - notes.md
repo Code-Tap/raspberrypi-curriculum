@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Python Storytime - Volunteer Notes
+title: Python Storytime - Volunteer Notes
 ---
 
 #Introduction:
@@ -7,7 +7,7 @@ title: Raspberry Pi Python Storytime - Volunteer Notes
 This tutorial lets you tell a story with code. It demonstrates the simple use of if/else statements to evaluate user input and generate a cute fairy story. This is a fun way to get started with Python programming that lets you really use your imagination and storytelling abilities!
 
 #Resources
-This project can be completed using Trinket or IDLE 3 on a Raspberry Pi. 
+This project can be completed using Trinket or IDLE 3 on a Raspberry Pi.
 
 #Learning Objectives
 By creating a story with code on your Raspberry Pi you will learn:
@@ -22,5 +22,3 @@ By creating a story with code on your Raspberry Pi you will learn:
 This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
 + [Combine programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder)
-
-

@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Getting Started with Minecraft Pi - Volunteer Notes
+title: Getting Started with Minecraft Pi - Volunteer Notes
 ---
 
 #Introduction:
@@ -9,7 +9,7 @@ In this resource you will explore the virtual world of Minecraft Pi, the special
 You will learn how to control the player, manually build with blocks and use the Python interface to manipulate the world around you.
 
 #Resources
-This project can be completed using IDLE 3 on a Raspberry Pi. 
+This project can be completed using IDLE 3 on a Raspberry Pi.
 
 #Learning Objectives
 By creating a story with code on your Raspberry Pi you will learn:
@@ -25,5 +25,3 @@ By following this resource with your Raspberry Pi you will learn:
 This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
 + [Combine programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder)
-
-

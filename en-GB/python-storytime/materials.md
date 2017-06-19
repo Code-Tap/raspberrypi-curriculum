@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Python Storytime - Materials
+title: Python Storytime - Materials
 layout: project-materials
 volunteer-resources:
 project-resources:
