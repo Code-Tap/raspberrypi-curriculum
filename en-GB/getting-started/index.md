@@ -102,7 +102,7 @@ The Pi will boot up into a graphical desktop.
 
 Now it's time to take a tour of the Raspberry Pi. 
 
-+ See that Raspberry up in the top-left corner? That the menu, click on it and you will find lots of applications. 
++ See that Raspberry up in the top-left corner? That's the menu, click on it and you will find lots of applications. 
 
 + Click 'Accessories' and choose 'Text Editor'
 
@@ -181,11 +181,15 @@ Step 4: Browsing the Web (Optional)
 Take some time to explore the Pi. 
 
 Can you find:
+
 + A version of Scratch
+
 + A Python game to play 
+
 + A version of Minecraft that you can program (you'll find out more about that later.)
 
 If you are connected to the internet then you can also try browsing the web. 
+
 + Can you find out how the Raspberry Pi got its name?
 
 Note: You can also try any of the regular [Code Club projects](codeclubprojects.org) on the Raspberry Pi. 
