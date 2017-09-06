@@ -196,4 +196,4 @@ Si vous êtes connecté à Internet, alors vous pouvez aussi essayer de naviguer
 
 + Pouvez-vous trouver l'origine du nom Raspberry Pi?
 
-Note: Vous pouvez aussi essayer n'importe quel des [projets Code Club](codeclubprojects.org) réguliers sur le Raspberry Pi.
+Note: Vous pouvez aussi essayer n'importe quel des [projets Code Club](https://codeclubprojects.org/) réguliers sur le Raspberry Pi.
