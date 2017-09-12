@@ -57,7 +57,7 @@ Regardez votre Raspberry Pi. Pouvez-vous trouver tous les éléments identifiés
 
 En équipe avec un ami, expliquez tour à tour les différentes parties du Raspberry.
 
-# Étape 2: Branchez votre Pi
+# Étape 2: Branchez votre Pi { .activity}
 
 Vous allez maintenant brancher votre Raspberry Pi et le démarrer.
 
@@ -102,7 +102,7 @@ Vous allez maintenant brancher votre Raspberry Pi et le démarrer.
 	![screenshot](images/pi-desktop.png)
 
 
-# Étape 3: Une visite du Pi
+# Étape 3: Une visite du Pi { .activity}
 
 C'est maintenant le temps de faire une visite du Raspberry Pi.
 
@@ -168,7 +168,7 @@ C'est maintenant le temps de faire une visite du Raspberry Pi.
 
 	![screenshot](images/pi-waste.png)
 
-# Étape 4: Navigation Internet (facultatif)
+# Étape 4: Navigation Internet (facultatif) { .activity}
 
 + Si vous n'utilisez pas de câble ethernet, alors vous devrez vous connecter à un réseau sans-fil.
 
