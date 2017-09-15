@@ -1,5 +1,5 @@
 ---
-title: Démarrer avec Minecraft Pi - Materials
+title: Démarrer avec Minecraft Pi - Ressources
 layout: project-materials
 volunteer-resources:
 project-resources:
