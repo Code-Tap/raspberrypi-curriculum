@@ -68,7 +68,7 @@ Now you're going to connect up your Raspberry Pi and get it running.
 
 + Find the USB connector for your mouse.
 
-	Make sure the USB symbol is facing upwards and connect the keyboard to a USB port on the Raspberry Pi. It doesn't matter which one.
+	Make sure the USB symbol is facing upwards and connect the mouse to a USB port on the Raspberry Pi. It doesn't matter which one.
 
 	![screenshot](images/pi-mouse.png)
 
