@@ -8,11 +8,11 @@ new: true
 
 # Introduction:  { .intro}
 
-Au cours de ce projet, vous brancherez un ordinateur Raspberry Pi et découvrirez quelques ce qu'il peut faire.
+Au cours de ce projet, vous brancherez un ordinateur Raspberry Pi et découvrirez ce qu'il peut faire.
 
 ![screenshot](images/pi-plug-in.gif)
 
-Le Raspberry Pi est un petit ordinateur qui peut faire bien des choses. On le branche à moniteur et on y branche un clavier et une souris.
+Le Raspberry Pi est un petit ordinateur qui peut faire bien des choses. On le branche à un moniteur et on y branche un clavier et une souris.
 
 Pour ce projet, vous aurez besoin de:
 
@@ -44,18 +44,18 @@ Regardez votre Raspberry Pi. Pouvez-vous trouver tous les éléments identifiés
 
 + __Port ethernet__ - celui-ci est utilisé pour brancher le Raspberry Pi au réseau (le Raspberry Pi peut aussi être connecté à un réseau Wifi).
 
-+ __Prise audio__ - c'est là que vous connectez des écouteurs ou haut-parleurs.
++ __Prise audio__ - c'est là que vous branchez des écouteurs ou haut-parleurs.
 
-+ __Port HDMI__ - c'est là que vous branchez le moniteur (ou télévision or projecteur) que vous utilisez pour afficher la sortie du Raspberry Pi. Si votre moniteur a des haut-parleurs, vous obtiendrez aussi du son.
++ __Port HDMI__ - c'est là que vous branchez le moniteur (ou télévision ou projecteur) que vous utilisez pour afficher la sortie du Raspberry Pi. Si votre moniteur a des haut-parleurs, vous obtiendrez aussi du son.
 
 + __Prise d'alimentation micro USB__ - c'est là que vous branchez un bloc d'alimentation. Vous devriez toujours brancher celui-ci en dernier.
 
 + __Broches GPIO__ - celles-ci vous permettent de brancher des composants électroniques tels que des DELs et boutons au Raspberry Pi.
 
 
-## Défi: Décris le Raspberry Pi à un ami { .challenge}
+## Défi: Décrivez le Raspberry Pi à un ami { .challenge}
 
-En équipe avec un ami, expliquez tour à tour les différentes parties du Raspberry.
+En équipe avec un ami, expliquez tour à tour les différentes parties du Raspberry Pi.
 
 # Étape 2: Branchez votre Pi { .activity}
 
